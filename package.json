@@ -1,0 +1,54 @@
+{
+    "name": "cordova-plugin-rootguard",
+    "version": "2.0.2",
+    "description": "Cordova plugin for detecting root access and Frida-based root bypass attempts.",
+    "cordova": {
+        "id": "cordova-plugin-rootguard",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Binuka97/cordova-plugin-rootguard.git"
+    },
+    "keywords": [
+        "cordova",
+        "plugin",
+        "root-detection",
+        "frida-detection",
+        "security",
+        "cydia",
+        "detection",
+        "cordova-plugin",
+        "cordova-plugin-rootguard",
+        "cordova-ios",
+        "cordova-android",
+        "cordova-ios-plugin",
+        "root",
+        "rooted",
+        "rootBeer",
+        "android",
+        "rootguard",
+        "rootguard-plugin",
+        "rootguard-cordova-plugin",
+        "rootguard-cordova",
+        "frida",
+        "frida-detection",
+        "frida-detection-plugin",
+        "frida-detection-cordova-plugin",
+        "frida-bypass",
+        "frida-bypass-detection"
+    ],
+    "author": {
+        "name": "Binuka Kamesh",
+        "email": "binukakamesh97@gmail.com",
+        "url": "https://github.com/Binuka97"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Binuka97/cordova-plugin-rootguard/issues"
+    },
+    "homepage": "https://github.com/Binuka97/cordova-plugin-rootguard/blob/main/README.md"
+}
